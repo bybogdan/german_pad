@@ -1,58 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-
   <channel>
     <title>Posts on German pad</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on German pad</description>
-    
+    <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Aug 2024 23:19:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 23:19:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Вопросы</title>
-      <link>http://localhost:1313/posts/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</link><pubDate>Mon, 19 Aug 2024 23:19:49 +0200</pubDate>
-      
+      <link>http://localhost:1313/posts/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</link>
+      <pubDate>Mon, 19 Aug 2024 23:19:49 +0200</pubDate>
       <guid>http://localhost:1313/posts/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</guid>
-      <description>Wer - кто
-Was - что
-Wie - как
-Wo - где
-Wohin - куда
-Woher - откуда
-Wann - когда
-Wie viel - сколько
-Warum - почему</description>
+      <description>Wer - кто&#xA;Was - что&#xA;Wie - как&#xA;Wo - где&#xA;Wohin - куда&#xA;Woher - откуда&#xA;Wann - когда&#xA;Wie viel - сколько&#xA;Warum - почему</description>
     </item>
-    
     <item>
       <title>Спряжение Haben И Sein</title>
-      <link>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-haben-%D0%B8-sein/</link><pubDate>Mon, 19 Aug 2024 23:12:02 +0200</pubDate>
-      
+      <link>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-haben-%D0%B8-sein/</link>
+      <pubDate>Mon, 19 Aug 2024 23:12:02 +0200</pubDate>
       <guid>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-haben-%D0%B8-sein/</guid>
-      <description>Haben - иметь Ich habe
-Du hast
-Er/sie/es hat
-Wir haben
-Ihr habt
-Sie haben
-Sein - быть Ich bin
-Du bist
-Er/sie/es ist
-Wir sind
-Ihr seid
-Sie sind</description>
+      <description>Haben - иметь 🔗Ich habe&#xA;Du hast&#xA;Er/sie/es hat&#xA;Wir haben&#xA;Ihr habt&#xA;Sie haben&#xA;Sein - быть 🔗Ich bin&#xA;Du bist&#xA;Er/sie/es ist&#xA;Wir sind&#xA;Ihr seid&#xA;Sie sind</description>
     </item>
-    
     <item>
       <title>Спряжение глагола</title>
-      <link>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0/</link><pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
-      
+      <link>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0/</link>
+      <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0/</guid>
-      <description>Machen - делать Ich mache Du machst Er/sie/es macht
-Wir machen
-Ihr macht
-Sie machen</description>
+      <description>Machen - делать 🔗Ich mache Du machst Er/sie/es macht&#xA;Wir machen&#xA;Ihr macht&#xA;Sie machen</description>
     </item>
-    
   </channel>
 </rss>
