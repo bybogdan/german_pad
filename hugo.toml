@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'ru'
 title = 'German pad'
-theme = "mini"
+theme = "kaslaanka"
 
