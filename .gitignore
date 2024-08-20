@@ -1,7 +1,3 @@
-# Hugo build output
-/public/
-
-
 # IDE files
 .vscode/
 /.idea/
