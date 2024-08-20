@@ -1,0 +1,18 @@
+# Hugo build output
+/public/
+
+
+# IDE files
+.vscode/
+/.idea/
+/*.sublime-project
+/*.sublime-workspace
+
+# Hugo .cache
+.hugo_cache/
+
+# Hugo logs
+hugo_stats.json
+
+# Specific to your deployment or environment
+.env
