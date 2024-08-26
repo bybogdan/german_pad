@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 20 Aug 2024 14:55:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Starke Verben</title>
+      <link>http://localhost:1313/docs/starke-verben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/starke-verben/</guid>
+      <description>У сильных глаголов следующие гласные в корне слова меняются на: # e -&amp;gt; i a -&amp;gt; ä&#xA;в du и er/sie/es формах.&#xA;Примеры: # Essen - есть # Ich esse&#xA;Du isst&#xA;Er/sie/es isst&#xA;Wir essen&#xA;Ihr esst&#xA;Sie essen&#xA;Geben - давать # Ich gebe&#xA;Du gibst&#xA;Er/sie/es gibt&#xA;Wir geben&#xA;Ihr gebt&#xA;Sie geben</description>
+    </item>
+    <item>
       <title>Цифры</title>
       <link>http://localhost:1313/docs/%D1%86%D0%B8%D1%84%D1%80%D1%8B/</link>
       <pubDate>Tue, 20 Aug 2024 14:55:46 +0200</pubDate>
